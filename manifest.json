@@ -2,14 +2,15 @@
   "name": "코오롱폐수 근무달력",
   "short_name": "근무달력",
   "description": "코오롱폐수사업소 7조5교대 2026년 연간 근무달력",
-  "start_url": "/근무달력_2026년_연간.html",
+  "start_url": "/work-calendar/",
+  "scope": "/work-calendar/",
   "display": "standalone",
   "background_color": "#eef2f7",
   "theme_color": "#1a2744",
   "lang": "ko",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231a2744'/><text y='.9em' font-size='80' x='10'>📅</text></svg>",
+      "src": "data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><rect width=\"100\" height=\"100\" rx=\"20\" fill=\"%231a2744\"/><text y=\".9em\" font-size=\"80\" x=\"10\">📅</text></svg>",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
